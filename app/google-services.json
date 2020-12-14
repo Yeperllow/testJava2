@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018813297082",
+    "firebase_url": "https://parcouririmagecloud.firebaseio.com",
+    "project_id": "parcouririmagecloud",
+    "storage_bucket": "parcouririmagecloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018813297082:android:fa4e3dc44e8b9d090bed83",
+        "android_client_info": {
+          "package_name": "com.example.cameratofirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018813297082-l6ummi52kmg5ij1c5hrpiik035rc6flb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCE42kRKzzoLJue9s4P-uqw-Bl1EHOXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018813297082-l6ummi52kmg5ij1c5hrpiik035rc6flb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
